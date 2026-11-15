@@ -12,7 +12,7 @@ Although this is intended for **archival and offline use**, the Badlion Client i
 
 ### 📥 Download
 
-[Click here to download the Badlion Client Installer](https://drive.google.com/file/d/1ghV00WOx8HJu_3OvNVbMTbAX5SA4iR0t/view?usp=sharing)
+[Click here to download the Badlion Client Installer](https://drive.google.com/file/d/17xz-iiKcrL3Z83xjJoGWlqiw4N3f9YNq/view?usp=sharing)
 
 > 💡 **Tip:** Always verify file hashes and scan for malware before running installers from the internet.
 
