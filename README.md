@@ -1,4 +1,4 @@
-# Badlion Client Installer v4.4.0
+# Badlion Client Installer v4.3.0
 
 <p align="center">
   <img src="Badlion.png" alt="Badlion Logo" width="120"/>
