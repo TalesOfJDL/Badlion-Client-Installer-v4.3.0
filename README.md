@@ -20,7 +20,7 @@ Although this is intended for **archival and offline use**, the Badlion Client i
 
 ### 📝 File Hash (SHA-256):
 
-`df1dc6af8819034c43c6e0b5131ef552e119b017ca3b7c0ef50d162a8a5afa51`
+`e5fba4935007b0c55025b8fb2b70d325d69b52bad874081678d4b9e5ac3aa809`
 
 Make sure to verify this hash using the **SHA-256** algorithm to ensure the file's integrity.
 
